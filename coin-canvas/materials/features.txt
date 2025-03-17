@@ -1,0 +1,36 @@
+Coin 
+Price 
+Vol/MCap 
+Dominance 
+Market Cap 
+Max Cap
+Volume 24h
+Bids -2%
+Asks +2%
+Liquidity +-2%
+Pressure +-2%
+Circulating
+Total Supply
+Issues
+Max Supply
+All-time High
+Since ATH
+24h High
+24h Low
+24h Range
+1h
+24h
+7d
+30d
+90d
+1y
+Vol 1h
+Vol 24h
+Vol 7d
+Vol 30d
+Vol 90d
+Vol 1y
+Age
+Markets
+Exchanges
+Favorites
