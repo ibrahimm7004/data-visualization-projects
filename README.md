@@ -1,6 +1,6 @@
 # Data Visualization Projects Repository
 
-Welcome to the **Data Visualization Projects Repository**! 🚀
+Welcome to the **Data Visualization Projects Repository**
 
 This repository is dedicated to showcasing various data visualization projects that leverage modern tools and technologies to present complex datasets in an interactive and insightful manner. Each project focuses on a unique domain, using techniques such as real-time data integration, statistical analysis, and machine learning-driven insights to provide meaningful visual representations.
 
