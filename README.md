@@ -60,6 +60,8 @@ The **Crypto Coins Analysis & Forecasting** project successfully delivers a **po
 
 ---
 
+### Recently Added: Meteorite Analysis and Visualization
+
 ### 📌 More projects coming soon!
 
 This repository will continue to expand with more **data visualization projects** across different domains. Stay tuned! 🚀
